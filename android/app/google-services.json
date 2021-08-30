@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68196002509",
+    "project_id": "lojaflutter-60bbf",
+    "storage_bucket": "lojaflutter-60bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68196002509:android:4d300118a3f934f20a5784",
+        "android_client_info": {
+          "package_name": "br.com.ferra.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68196002509-bg8gtamjt3okq4tq1k0t7v432kehl4ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLN-Ul35pYtCUKw_1LYy7IH8oA1Lf0tTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68196002509-bg8gtamjt3okq4tq1k0t7v432kehl4ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
